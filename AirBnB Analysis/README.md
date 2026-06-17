@@ -34,7 +34,7 @@ This dashboard aims to provide a data-driven view of the Airbnb market.
 * Exploratory Data Analysis (EDA)
 
 ## 📊 Dashboard Overview
-Dashboard Screenshot
+![Airbnb Dashboard](Tableau AirBnB Dashboard Pic.png)
 
 ## 📈 Key Dashboard Components
 The dashboard components are:
@@ -61,7 +61,7 @@ The dashboard components are:
 **Geographic Trends**
 * Certain neighborhoods offer stronger revenue potential due to higher average prices.
 
-##💡 Recommendations
+## 💡 Recommendations
 **For Airbnb Hosts**
 * Consider investing in entire-home listings where feasible.
 * Optimize pricing based on neighborhood benchmarks.
@@ -106,3 +106,11 @@ Airbnb-Market-Analysis/
 * Interactive Visualizations
 
 ⭐ If you found this project interesting, feel free to explore the dashboard and connect with me for feedback or collaboration.
+
+## ▶️ View Dashboard
+
+The interactive dashboard can be viewed online here:
+
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/mercy.bundi/viz/AirBnBProjectTableau_17418808237800/Dashboard1)
+
+Alternatively, download the `.twb` file from this repository and open it using Tableau Desktop.
