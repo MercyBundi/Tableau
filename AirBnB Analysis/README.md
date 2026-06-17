@@ -34,7 +34,7 @@ This dashboard aims to provide a data-driven view of the Airbnb market.
 * Exploratory Data Analysis (EDA)
 
 ## 📊 Dashboard Overview
-![Airbnb Dashboard](Tableau AirBnB Dashboard Pic.png)
+![(Tableau AirBnB Dashboard Pic.png](https://github.com/MercyBundi/Tableau/blob/main/AirBnB%20Analysis/Tableau%20AirBnB%20Dashboard%20Pic.png)
 
 ## 📈 Key Dashboard Components
 The dashboard components are:
